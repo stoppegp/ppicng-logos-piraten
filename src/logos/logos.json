@@ -1,25 +1,42 @@
 {
-  "piraten": {
-    "title": "Piratenpartei",
-    "default": "./common/piraten_dark.png",
-    "groups": ["common"],
-    "variants": {
-      "dark": "./common/piraten_dark.png",
-      "light": "./common/piraten_light.png"
+  "common": {
+    "title": "Allgemein",
+    "logos": {
+      "piraten": {
+        "title": "Piratenpartei",
+        "default": "./common/piraten_dark.png",
+        "groups": ["common"],
+        "variants": {
+          "dark": "./common/piraten_dark.png",
+          "light": "./common/piraten_light.png"
+        }
+      },
+      "signet": {
+        "title": "Siget",
+        "default": "./common/signet.png",
+        "groups": ["common"]
+      },
+      "signetsimple": {
+        "title": "Siget Einfach",
+        "default": "./common/signetsimple_dark.png",
+        "groups": ["common"],
+        "variants": {
+          "dark": "./common/signetsimple_dark.png",
+          "light": "./common/signetsimple_light.png"
+        }
+      }
     }
   },
-  "signet": {
-    "title": "Siget",
-    "default": "./common/signet.png",
-    "groups": ["common"]
-  },
-  "signetsimple": {
-    "title": "Siget Einfach",
-    "default": "./common/signetsimple_dark.png",
-    "groups": ["common"],
-    "variants": {
-      "dark": "./common/signetsimple_dark.png",
-      "light": "./common/signetsimple_light.png"
-    }
+  "europe": {
+    "title": "Europa",
+    "logos": {      "claim": {
+      "title": "Claim",
+      "default": "./europe/claim_dark.png",
+      "groups": ["common"],
+      "variants": {
+        "dark": "./europe/claim_dark.png",
+        "light": "./europe/claim_light.png"
+      }
+    }}
   }
 }
