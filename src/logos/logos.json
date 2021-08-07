@@ -1,0 +1,25 @@
+{
+  "piraten": {
+    "title": "Piratenpartei",
+    "default": "./common/piraten_dark.png",
+    "groups": ["common"],
+    "variants": {
+      "dark": "./common/piraten_dark.png",
+      "light": "./common/piraten_light.png"
+    }
+  },
+  "signet": {
+    "title": "Siget",
+    "default": "./common/signet.png",
+    "groups": ["common"]
+  },
+  "signetsimple": {
+    "title": "Siget Einfach",
+    "default": "./common/signetsimple_dark.png",
+    "groups": ["common"],
+    "variants": {
+      "dark": "./common/signetsimple_dark.png",
+      "light": "./common/signetsimple_light.png"
+    }
+  }
+}
