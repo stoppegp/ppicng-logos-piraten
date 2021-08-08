@@ -1,6 +1,7 @@
 {
   "common": {
     "title": "Allgemein",
+    "excludeFromDesigns": ["classic-eu"],
     "logos": {
       "piraten": {
         "title": "Piratenpartei",
