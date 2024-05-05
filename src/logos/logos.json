@@ -126,6 +126,14 @@
           "light": "./laender/berlinsignet_light.png"
         }
       },
+      "berlinimpfbaer": {
+        "title": "Berlin Impfbär",
+        "default": "./laender/berlin_impfbaer_dark.png",
+        "variants": {
+          "dark": "./laender/berlin_impfbaer_dark.png",
+          "light": "./laender/berlin_impfbaer_light.png"
+        }
+      },
       "sachsen": {
         "title": "Sachsen",
         "default": "./laender/sachsen_dark.png"
