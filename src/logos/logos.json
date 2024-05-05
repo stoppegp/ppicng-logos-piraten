@@ -31,6 +31,7 @@
   },
   "europe": {
     "title": "Europa",
+    "excludeFromDesigns": ["gp2024"],
     "logos": {
       "pirates": {
         "title": "Pirates",
@@ -84,7 +85,7 @@
   },
   "laender": {
     "title": "Bundesländer",
-    "excludeFromDesigns": ["classic-eu"],
+    "excludeFromDesigns": ["classic-eu", "gp2024"],
     "logos": {
       "bw": {
         "title": "Baden-Württemberg",
@@ -170,7 +171,7 @@
   },
   "international": {
     "title": "International",
-    "excludeFromDesigns": ["classic-eu"],
+    "excludeFromDesigns": ["classic-eu", "gp2024"],
     "logos": {
       "at": {
         "title": "AT",
@@ -264,7 +265,7 @@
   },
   "jupi": {
     "title": "JuPi",
-    "excludeFromDesigns": ["classic-eu"],
+    "excludeFromDesigns": ["classic-eu", "gp2024"],
     "logos": {
       "jupi1": {
         "title": "JuPi 1",
@@ -322,6 +323,14 @@
         "variants": {
           "dark": "./regional/goeppingen_dark.png",
           "light": "./regional/goeppingen_light.png"
+        }
+      },
+      "goeppingen24": {
+        "title": "Göppingen 24",
+        "default": "./regional/piratengp24_dark.png",
+        "variants": {
+          "dark": "./regional/piratengp24_dark.png",
+          "light": "./regional/piratengp24_light.png"
         }
       },
       "dus": {
@@ -492,7 +501,7 @@
   },
   "ags": {
     "title": "AGs",
-    "excludeFromDesigns": ["classic-eu"],
+    "excludeFromDesigns": ["classic-eu", "gp2024"],
     "logos": {
       "gesundheitpflege": {
         "title": "AG Gesundheit+Pflege",
