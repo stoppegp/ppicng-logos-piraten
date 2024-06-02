@@ -26,6 +26,10 @@
       "queeraten": {
         "title": "Queeraten",
         "default": "./common/queeraten.png"
+      },
+      "piratenwaehlen": {
+        "title": "Piraten wählen",
+        "default": "./common/piraten_waehlen.png"
       }
     }
   },
@@ -80,6 +84,10 @@
           "dark": "./europe/eudelegationH_dark.png",
           "light": "./europe/eudelegationH_light.png"
         }
+      },
+      "eudelegationDE": {
+        "title": "deutsche EU-Delegation",
+        "default": "./europe/eudelegationDE.png"
       }
     }
   },
