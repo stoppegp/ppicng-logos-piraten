@@ -504,6 +504,18 @@
           "dark": "./regional/schwalmeder_dark.png",
           "light": "./regional/schwalmeder_light.png"
         }
+      },
+      "mettmann": {
+        "title": "Mettmann",
+        "default": "./regional/mettmann_dark.png",
+        "variants": {
+          "dark": "./regional/mettmann_dark.png",
+          "light": "./regional/mettmann_light.png"
+        }
+      },
+      "mettmannsignet": {
+        "title": "Mettmann Signet",
+        "default": "./regional/mettmann_signet.png"
       }
     }
   },
